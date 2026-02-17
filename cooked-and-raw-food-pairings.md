@@ -60,14 +60,7 @@ It’ll make your breath a weapon, sure, but your immune system will thank me.
 
 Real food isn't always pretty.
 
-| Cooked Component | Raw Partner | The "Why" (Benefit) |
-| :--- | :--- | :--- |
-| **Turmeric** | Black Pepper | Piperine increases curcumin absorption by 2,000%. |
-| **Proteins (Meat)** | Figs / Papaya | Natural enzymes (ficin/papain) aid protein digestion. |
-| **Tomatoes** | Avocado / Olive Oil | Fats increase the bioavailability of cooked lycopene. |
-| **Broccoli / Kale** | Mustard Seeds / Radish | Restores myrosinase to unlock sulforaphane. |
-| **Spinach / Lentils** | Lemon Juice / Peppers | Vitamin C assists in non-heme iron absorption. |
-| **Garlic (Mellowed)** | Garlic (Crushed) | Combines deep flavor with active medicinal allicin. |
+
 
 
 The Continued Family Discussion
@@ -95,4 +88,10 @@ Markdown
 | **Whole Grains** | Raw Radishes | Enzymes in radishes neutralize mineral-blocking phytic acid. |
 | **Sweet Potatoes** | Raw Brazil Nuts | Selenium acts as a co-factor for Vitamin A/Thyroid health. |
 | **Beets** | Raw Orange / Grapefruit | Vitamin C ensures nitrates are converted to heart-healthy Nitric Oxide. |
-| **Bone Broth** | Raw Ginger | Preserves gingerol for potent anti-inflammatory/gut h
+| **Bone Broth** | Raw Ginger | Preserves gingerol for potent anti-inflammatory/gut heath |
+| **Turmeric** | Black Pepper | Piperine increases curcumin absorption by 2,000%. |
+| **Proteins (Meat)** | Figs / Papaya | Natural enzymes (ficin/papain) aid protein digestion. |
+| **Tomatoes** | Avocado / Olive Oil | Fats increase the bioavailability of cooked lycopene. |
+| **Broccoli / Kale** | Mustard Seeds / Radish | Restores myrosinase to unlock sulforaphane. |
+| **Spinach / Lentils** | Lemon Juice / Peppers | Vitamin C assists in non-heme iron absorption. |
+| **Garlic (Mellowed)** | Garlic (Crushed) | Combines deep flavor with active medicinal allicin. |
