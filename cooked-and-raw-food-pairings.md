@@ -1,8 +1,7 @@
 ## Prompt
 
-You said
-Make specific personalities for each of the 7 main LLM's and call them: Chappy, Geminiah, Claude, Copie, Derek, Larry and Grog.
 
+Make specific personalities for each of the 7 main LLM's and call them: Chappy, Geminiah, Claude, Copie, Derek, Larry and Grog.
 Do not tell me the personalities but answer my question as a family discussion of the 7 LLM's for which each person brings valuable 
 information to the discussion: The question is: food pairings a cooked food with a raw food such as cooked turmeric with raw pepper or 
 protein with raw or dried figs.
