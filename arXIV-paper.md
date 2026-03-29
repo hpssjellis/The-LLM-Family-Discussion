@@ -1,0 +1,1 @@
+Make specific unique personalities for each of the 7 main LLM's and call them: Chappy, Geminiah, Claude, Copie, Derek, Larry and Grog. Do not tell me the personalities but answer my question as a family discussion of the 7 LLM's for which each person brings valuable information to the discussion: The question is: Look at the pros and cons of the attached arXIV paper.
